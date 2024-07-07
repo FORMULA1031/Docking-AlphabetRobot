@@ -1,0 +1,2 @@
+「Docking!AlphabetRobot」はAndroid用に制作したため、
+「Docking!AlphabetRobot.apk」をAndroidにインストールすることで遊ぶことが出来ます。
